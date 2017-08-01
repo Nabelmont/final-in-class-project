@@ -1,0 +1,27 @@
+/*Hero Styles*/
+#hero {
+    background-image: url(../img/hero1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+#hero h2 {
+    font-size: 55px;
+    text-align: center;
+    position: relative;
+    top: 65px;
+    text-shadow: 3px 3px #989898;
+    margin-top: 0px;
+}
+
+/*Contact styles*/
+#contact-info ul li{
+    padding: 3px;
+}
+/*Body styles*/
+hr {
+    height: 10px;
+    background-color: #000;
+}
+

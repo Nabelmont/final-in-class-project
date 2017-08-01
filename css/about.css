@@ -1,0 +1,36 @@
+/*Hero Styles*/
+#hero {
+    background-image: url(../img/hero1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+#hero h2 {
+    font-size: 55px;
+    text-align: center;
+    position: relative;
+    top: 65px;
+    text-shadow: 3px 3px #989898;
+    margin-top: 0px;
+}
+/*Body Styles*/
+#main-text h1 {
+    text-align: center;
+}
+
+#main-text p {
+    text-align: center;
+}
+
+#main-text hr {
+    width: 200px;
+    height: 10px;
+    background-color: #000;
+}
+
+#main-text img {
+    height: 200px;
+    position: relative;
+    left: 580px;
+}

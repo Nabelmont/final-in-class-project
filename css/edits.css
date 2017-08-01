@@ -1,0 +1,44 @@
+/*Hero Styles*/
+#hero {
+    background-image: url(../img/hero1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    clear: both;
+}
+
+#hero h2 {
+    font-size: 55px;
+    text-align: center;
+    position: relative;
+    top: 65px;
+    text-shadow: 3px 3px #989898;
+    margin-top: 0px;
+}
+/*Hr Styles*/
+hr {
+    height: 10px;
+    background-color: #000;
+}
+/*Column Styles*/
+.column {
+  width: 31%;
+  float: left;
+  padding: 0px 15px;
+  position: relative;
+}
+
+#col-1 iframe {
+    height: 250px;
+    width: 450px;
+}
+
+#col-2 iframe {
+    height: 250px;
+    width: 450px;
+}
+
+#col-3 iframe {
+    height: 250px;
+    width: 450px;
+}
