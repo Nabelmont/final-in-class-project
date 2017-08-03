@@ -89,10 +89,11 @@ nav ul li {
     height: 10px;
     width: 300px;
     background-color: #000;
+    margin-bottom: 0px;
 }
 /*Column Section Styles*/
 .column {
-    height: 300px;
+    height: 330px;
     width: 30%;
     float: left;
     padding: 0px 18px;
@@ -115,8 +116,23 @@ nav ul li {
     border-radius: 7px;
 }
 
+#col-1 button {
+    clear: both;
+}
+
 #col-1 button:hover {
     color: #99e6ff;
+}
+
+#col-1 hr {
+    height: 10px;
+    width: 375px;
+    text-align: center;
+}
+
+#col-1 h2{
+    margin-bottom: 0px;
+    text-align: center;
 }
 
 #col-2 button:hover {
@@ -127,12 +143,27 @@ nav ul li {
     width: 425px;
 }
 
+#col-2 h2 {
+    margin-bottom: 0px;
+    text-align: center;
+}
+
 #col-3 button:hover {
     color: #99e6ff;
 }
 
 #col-3 p {
     margin-top: 0px;
+}
+
+#col-3 h2 {
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#col-3 hr {
+    margin-bottom: 15px;
+    width: 275px;
 }
 
 #col-3 .skate-img {
@@ -146,7 +177,7 @@ footer{
     text-align: center;
     clear: both;
     margin-top: 0px;
-    
+    height: 80px;
 }
 
 #social-media {
