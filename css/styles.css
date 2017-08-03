@@ -138,6 +138,10 @@ nav ul li {
 #col-3 p {
     margin-top: 0px;
 }
+
+#col-3 .skate-img {
+    height: 286px;
+}
 /*Footer Styles*/
 footer{
     background-color: #000;
