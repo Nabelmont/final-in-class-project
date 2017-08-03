@@ -19,6 +19,7 @@
 hr {
     height: 10px;
     background-color: #000;
+    border-radius: 6px;
 }
 /*Column Styles*/
 .column {

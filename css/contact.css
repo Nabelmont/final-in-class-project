@@ -23,6 +23,7 @@
 hr {
     height: 10px;
     background-color: #000;
+    border-radius: 6px;
 }
 /*Footer styles*/
 #facebook-link:hover {
