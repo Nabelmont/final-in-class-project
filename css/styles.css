@@ -153,3 +153,15 @@ footer{
     display: inline-block;
     padding: 5px;
 }
+
+#facebook-link:hover {
+    color: #3e5fa1;
+}
+
+#twitter-link:hover {
+    color: #0099ff;
+}
+
+#twitch-link:hover {
+    color: #5900b3;
+}
