@@ -21,7 +21,7 @@ nav ul {
 }
 
 nav ul li {
-    background-color: #bababa;
+    background-color: #000;
     display: inline-block;
     font-size: 20px;
     padding: 2%;
@@ -36,7 +36,7 @@ nav ul li {
 }
 
 .home-link:hover {
-    color: #0000ff;
+    color: #99e6ff;
 }
 
 .edits-link {
@@ -44,7 +44,7 @@ nav ul li {
 }
 
 .edits-link:hover {
-    color: #0000ff;
+    color: #99e6ff;
 }
 
 .about-link {
@@ -52,7 +52,7 @@ nav ul li {
 }
 
 .about-link:hover {
-    color: #0000ff;
+    color: #99e6ff;
 }
 
 .contact-link {
@@ -60,7 +60,7 @@ nav ul li {
 }
 
 .contact-link:hover {
-    color: #0000ff;
+    color: #99e6ff;
 }
 /*Hero Section Styles*/
 #hero {
@@ -107,7 +107,7 @@ nav ul li {
 
 .column button {
     color: #fff;
-    background-color: #bababa;
+    background-color: #000;
     display: inline-block;
     font-size: 20px;
     padding: 2%;
@@ -116,11 +116,11 @@ nav ul li {
 }
 
 #col-1 button:hover {
-    color: #0000ff;
+    color: #99e6ff;
 }
 
 #col-2 button:hover {
-    color: #0000ff;
+    color: #99e6ff;
 }
 
 #col-2 iframe {
@@ -128,7 +128,7 @@ nav ul li {
 }
 
 #col-3 button:hover {
-    color: #0000ff;
+    color: #99e6ff;
 }
 
 #col-3 h2{
