@@ -3,8 +3,49 @@
   background-color: transparent;
 }
 /*Nav Styles*/
+.brand-img {
+  width: 45%;
+}
 
 .navlogo {
   background-size: contain;
   background-position: left;
+}
+
+#brand-box {
+  width: 13em;
+}
+/*Carousel Styles*/
+.carousel {
+  background-position: center;
+  background-size: cover;
+}
+.item {
+  background-position: center;
+  background-size: cover;
+}
+
+.caro-video {
+  background-position: center;
+  background-size: cover;
+}
+/*Social Media Styles*/
+#facebook-link {
+  color: #3b5998;
+}
+
+#youtube-link {
+  color: #ff0000;
+}
+
+#instagram-link {
+  color: #f56040;
+}
+
+#twitter-link {
+  color: #1da1f2;
+}
+
+#vimeo-link {
+  color: #1ab7ea;
 }
