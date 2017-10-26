@@ -2,6 +2,10 @@
 .bkg-trasparent{
   background-color: transparent;
 }
+
+.black-bkg {
+  background-color: #000;
+}
 /*Nav Styles*/
 .brand-img {
   width: 45%;
@@ -25,9 +29,23 @@
   background-size: cover;
 }
 
+#caro-img-1 {
+  height: 26em;
+  position: relative;
+  left: 30%;
+}
+
 .caro-video {
-  background-position: center;
-  background-size: cover;
+  position: relative;
+  left: 27%;
+}
+
+.carousel-control.left {
+  background-image: none;
+}
+
+.carousel-control.right {
+  background-image: none;
 }
 /*Social Media Styles*/
 #facebook-link {
