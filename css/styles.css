@@ -25,9 +25,15 @@
   background-size: cover;
 }
 
+#caro-img-1 {
+  height: 26em;
+  position: relative;
+  left: 30%;
+}
+
 .caro-video {
-  background-position: center;
-  background-size: cover;
+  position: relative;
+  left: 27%;
 }
 /*Social Media Styles*/
 #facebook-link {
