@@ -40,6 +40,13 @@
   left: 27%;
 }
 
+.carousel-control.left {
+  background-image: none;
+}
+
+.carousel-control.right {
+  background-image: none;
+}
 /*Social Media Styles*/
 #facebook-link {
   color: #3b5998;
